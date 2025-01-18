@@ -1,0 +1,11 @@
+yahooquery
+pandas
+numpy<2.0
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+statsforecast==1.5.0
+cmdstanpy==1.0.4
+prophet
+nbformat
