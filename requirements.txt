@@ -9,3 +9,6 @@ statsforecast==1.5.0
 cmdstanpy==1.0.4
 prophet
 nbformat
+keras
+tensorflow
+xgboost
